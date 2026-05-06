@@ -1,0 +1,5 @@
+Transition_Pathway,Est_Tuition_Min_USD,Est_Tuition_Max_USD,Temporal_Cost_Weeks,Placement_Probability_180_Days,Avg_Starting_Salary_USD,Notes
+"MS Computer Science (US, NACE benchmark)",50000,80000,96,0.85,118711,NACE 2025 Summer Salary Survey: MS CS Class of 2024 actual avg starting salary
+MS Computer Science (NACE Winter 2026 projection),50000,80000,96,0.8,94212,NACE Winter 2026 projection for Class of 2026 MS CS - sensitivity bound for forward outlook
+Top-Tier Bootcamp (GA / BrainStation),14950,16500,21,0.79,70698,CIRR-tracked outcomes; +51% median salary lift over pre-transition
+Global Bootcamp Avg,3500,30000,21,0.71,70698,Wide tuition variance; lower bound for low-cost-jurisdiction programs

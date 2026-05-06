@@ -1,0 +1,12 @@
+Jurisdiction,Visa_Classification,Base_Fee_Local,Currency,Converted_Fee_USD,Health_Surcharge_Annual_USD,Processing_Time_Days,Success_Probability_Coefficient,Notes
+United States,H-1B Specialty Occupation,102965,USD,102965.0,0.0,90,0.2,"Sept 2025 $100K proclamation + I-129 premium $2,965 (15 biz days SLA); end-to-end is dynamic - cite USCIS live tool"
+Canada,Global Talent Stream + GSS work permit,1000,CAD,720.72,0.0,14,0.85,GTS LMIA 10 biz day SLA (Mar 2026 avg 7 biz days); GSS work permit ~2 weeks - applies to worker stage
+United Kingdom,"Skilled Worker (3+ year, outside UK)",1618,GBP,2156.96,1379.76,21,0.8,"GOV.UK official: 3 weeks outside UK / 8 weeks inside UK; +£1,270 maintenance proof"
+Germany,EU Blue Card (fast-track),100,EUR,116.14,0.0,60,0.9,EU Immigration Portal: 100 EUR initial issuance (audit-corrected from guide value of 75 EUR); fast-track timeline: 3 wks appt + 3 wks decision
+France,Passeport Talent,99,EUR,114.98,0.0,15,0.85,"France-Visas: 15 days standard, 45 days exceptional cases only"
+Netherlands,Highly Skilled Migrant,423,EUR,491.27,0.0,90,0.8,IND legal decision period: 90 days; IND-recognized sponsor required
+Singapore,Employment Pass (online),330,SGD,257.43,0.0,14,0.75,MOM official: 10 biz days for online EP; FCF requires MyCareersFuture posting first
+Australia,Skilled Independent (Subclass 189),4910,AUD,3409.5,0.0,180,0.75,"DHA does not publish fixed national SLA - cite live processing-time guide; min 65 pts, realistic 85-95 for tech"
+Japan,Highly Skilled Professional (with COE),100000,JPY,630.4,0.0,30,0.8,MOFA: visa issuance 5 biz days WITH COE; 1-3 months without COE - 30 days reflects end-to-end with COE in hand
+United Arab Emirates,Standard Work Permit (Dubai),7500,AED,2042.21,0.0,45,0.7,MOHRE: permit issuance 2 biz days; 45 days = end-to-end incl. ICP residence (60-day post-entry deadline)
+Brazil,"VITEM V (US-post, US-national)",1494,BRL,290.0,0.0,21,0.2,"Official US-post fee US$290 (=BRL 1,494 at H.10); 5-15 biz days post-specific; EOR pathway most common"
